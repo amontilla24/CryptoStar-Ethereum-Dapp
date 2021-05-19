@@ -2,7 +2,9 @@
 Ethereum Distributed Application, an ERC-721 smart contract powered token, stars can be created, and exchanged between users.
 
 ## Credits
-Most of the code of this project comes from Udacity's Blockchain Developer Nanodegree Program. This repo serves as the project submission for the 'Ethereum Smart Contracts, Tokens and Dapps' unit of the program.
+Most of the code of this project comes from Udacity's Blockchain Developer Nanodegree Program. 
+
+This repo just serves as the project submission for the 'Ethereum Smart Contracts, Tokens and Dapps' unit of the program, the tasks completed from the boiler late code provided for the project were written solely based on the lessons learned throughout the course.
 
 ## Submission Information
 
