@@ -6,14 +6,15 @@ Most of the code of this project comes from Udacity's Blockchain Developer Nanod
 
 ## Submission Information
 
-### OpenZeppelin Version
-
 ### Version Information
 Truffle: v5.3.5 (core: 5.3.5)
+
 OpenZeppelin: 7.6.3
 
 Solidity: 0.8.4+commit.c7e474f2 (solc-js)
+
 Node v15.12.0
+
 Web3.js v1.3.5
 
 ### Token name
