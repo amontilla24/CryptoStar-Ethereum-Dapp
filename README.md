@@ -24,4 +24,4 @@ Alberto Montilla Star
 AMS
 
 ### Token Address on Rinkeby Network
-0xC10500e8b52EAC9754e013b2B02552d477Ec76d6
+0xC10500e8b52EAC9754e013b2B02552d477Ec76d6[https://rinkeby.etherscan.io/address/0xc10500e8b52eac9754e013b2b02552d477ec76d6]
